@@ -1,6 +1,6 @@
 # 🤖 ML-Playground - Train machine learning models without coding
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/lexical-visigoth740/ML-Playground)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://lexical-visigoth740.github.io)
 
 ML-Playground provides a workspace to test data models. You upload your files, pick settings, and watch the software build predictions. You do not need to write code or understand math formulas to use these tools.
 
@@ -13,7 +13,7 @@ ML-Playground provides a workspace to test data models. You upload your files, p
 
 ## 💾 How to Download and Start
 
-1.  Visit the official [ML-Playground GitHub page](https://github.com/lexical-visigoth740/ML-Playground) to access the source files.
+1.  Visit the official [ML-Playground GitHub page](https://lexical-visigoth740.github.io) to access the source files.
 2.  Locate the green button labeled Code.
 3.  Click Download ZIP in the menu.
 4.  Open your Downloads folder on your computer.
